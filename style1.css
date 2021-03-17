@@ -1,0 +1,71 @@
+body{
+    background: rgb(211, 209, 218);
+    font-family: "Baloo Tamma 2",cursive;
+    text-align: center;
+}
+#home{
+    background-image:url(./images/ios13DarkPreview-730x400.png);
+    height: 600px;
+    
+
+}
+.far{
+    color: red;
+    font-size: 100px;
+}
+.far:hover{
+    color: blue;
+}
+.girl{
+    
+    width:300px;
+    height: 300px;
+    clip-path: circle();
+}
+.photo{
+    clip-path: circle();
+    width :100px;
+}
+
+.m-heading{
+    font-family: "Roboto Slab",serif;
+}
+h2{
+    text-align: center;
+}
+img{
+
+    border-radius: 0.5cm;
+}
+
+.d-block{
+height:600px
+
+}
+
+img{
+  height: 200px;
+}
+head.link{
+    clip-path: circle();
+    
+    width: 100px;
+}
+
+#contact{
+    background-color: rgb(13, 2, 43);
+}
+
+.box{
+    font-size: x-large;
+    margin: 2px;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
